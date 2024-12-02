@@ -60,3 +60,4 @@ If you wish to cite the book "Interpretability in Deep Learning", feel free to u
 
 Feeling like extending the range of possibilities of interpretable methods to make AI more trustable? Or perhaps submitting a paper implementation? Any sort of contribution is greatly appreciated!
 
+### See the author [Ayush's](https://www.linkedin.com/in/ayushsomani001/) git repository here: https://github.com/AyushSomani001/IDL
