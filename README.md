@@ -1,3 +1,5 @@
+### See [the author's](http://www.ayushsomani.com/) git repository here: https://github.com/AyushSomani001/IDL
+
 # Interpretable DL Playground
 This is a repository that contains a comprehensive resource for AI practitioners and enthusiasts to explore and practice interpretable deep learning techniques, featuring a curated collection of modules, a relevant book "[Interpretability in Deep Learning](https://link.springer.com/book/10.1007/978-3-031-20639-9)" (Springer 2023), and intuitive explanations. 
 
@@ -59,5 +61,3 @@ If you wish to cite the book "Interpretability in Deep Learning", feel free to u
 ### Contributing
 
 Feeling like extending the range of possibilities of interpretable methods to make AI more trustable? Or perhaps submitting a paper implementation? Any sort of contribution is greatly appreciated!
-
-### See the author [Ayush's](https://www.linkedin.com/in/ayushsomani001/) git repository here: https://github.com/AyushSomani001/IDL
